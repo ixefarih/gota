@@ -1393,12 +1393,16 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Acumin Variable Concept", Acumin, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857;
-  color: #333333;
+  color: #c12525;
   background-color: #fff;
 }
+
+a.fh5co-sub-ddown.active.sf-with-ul {}
+
+a.fh5co-sub-ddown.active.sf-with-ul {}
 
 input,
 button,

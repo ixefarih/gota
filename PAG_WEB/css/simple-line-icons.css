@@ -14,6 +14,7 @@
  Instead of a list of all class selectors, you can use the generic [class*="icon-"] selector, but it's slower:
 */
 .sl-icon-user,
+.sl-icon-Gota,
 .sl-icon-people,
 .sl-icon-user-female,
 .sl-icon-user-follow,
@@ -474,6 +475,9 @@
 .sl-icon-briefcase:before {
   content: "\e04b";
 }
+    .sl-icon-Gota:before {
+        content: url(images/got.png);
+    }
 .sl-icon-book-open:before {
   content: "\e04c";
 }

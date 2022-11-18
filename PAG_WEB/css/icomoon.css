@@ -1605,6 +1605,9 @@
 .icon-instagram-with-circle:before {
     content: "\ea6f";
 }
+.icon-logogota:before {
+    content: url(../images/Gota.png);
+}
 .icon-instagram:before {
     content: "\ea70";
 }
